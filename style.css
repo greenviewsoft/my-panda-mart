@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #fceae8 !important; 
+} 
+
+.bg-back{
+    background-color:#fceae8 ;
+}
+
+
+
+
+.catagoris img {
+width: 100px;
+}
+
+.panda-btn-btn{
+    background-color: rgb(223, 167, 15);
+    color: white;
+    border: none;
+    border-radius: 8px;
+padding: 9px 25px;
+}
